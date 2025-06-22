@@ -21,6 +21,6 @@ This repository contains a simple SwiftUI implementation of a custom tabbed view
 
 3. Build and Run:
 
-![Uploading Simulator Screenshot - iPhone 16 Pro - 2025-06-23 at 02.07.02.png…]()
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-23 at 02 07 02](https://github.com/user-attachments/assets/cdff9dc4-7f7d-436e-b23b-367ccf4e73d9)
 
 
